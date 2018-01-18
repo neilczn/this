@@ -1,0 +1,3 @@
+*.class
+WEB-INF/class
+WEB-INF/class/*.jar
